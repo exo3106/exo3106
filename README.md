@@ -1,5 +1,6 @@
 
-
+🧑🏿‍🦱 About me
+====================
 - 👋 Hi, I’m @exo3106 you can call me Exaud Paul 👀 I’m interested in creating  cool android native apps,
 My passion towards programming drives to creare and develop solutions that 
 inspire and help out my community.
